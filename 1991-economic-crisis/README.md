@@ -47,11 +47,15 @@ This project also helps in understanding the background of the **1991 Liberaliza
 
 ├── analysis.py  
 ├── dashboard.py  
-├── crisis_data.csv  
-├── gdp_growth.png  
-├── forex_reserves.png  
-├── inflation_trend.png  
-├── economic_crisis_terminal_output.png  
+├── data/  
+│   └── crisis_data.csv  
+│
+├── charts/  
+│   ├── gdp_growth.png  
+│   ├── forex_reserves.png  
+│   ├── inflation_trend.png  
+│   └── economic_crisis_terminal_output.png  
+│
 ├── requirements.txt  
 └── README.md
 
@@ -76,7 +80,7 @@ The GDP visualization shows how India's economic growth fluctuated during the cr
 
 ## Output Visualization
 
-![GDP Growth](gdp_growth.png)
+![GDP Growth](charts/gdp_growth.png)
 
 ### Insights
 
@@ -92,7 +96,7 @@ This chart represents India's foreign exchange reserves during the crisis years.
 
 ## Output Visualization
 
-![Forex Reserves](forex_reserves.png)
+![Forex Reserves](charts/forex_reserves.png)
 
 ### Insights
 
@@ -108,7 +112,7 @@ This visualization shows inflation fluctuations during the economic crisis perio
 
 ## Output Visualization
 
-![Inflation Trend](inflation_trend.png)
+![Inflation Trend](charts/inflation_trend.png)
 
 ### Insights
 
@@ -124,7 +128,7 @@ The project also performs statistical analysis using Python.
 
 ## Output Screenshot
 
-![Terminal Output](economic_crisis_terminal_output.png)
+![Terminal Output](charts/economic_crisis_terminal_output.png)
 
 ### Statistical Outputs
 
@@ -175,6 +179,67 @@ This crisis later led to the famous **1991 Economic Reforms and Liberalization P
 
 ---
 
+# 📚 Data Sources & References
+
+The datasets, historical references, and economic insights used in this project are inspired from publicly available and educational sources.
+
+## 📊 Data Sources
+
+- Reserve Bank of India (RBI)
+- World Bank Open Data
+- International Monetary Fund (IMF)
+- Ministry of Finance, Government of India
+- MOSPI (Ministry of Statistics and Programme Implementation)
+- Economic Survey of India
+
+---
+
+# 📖 Historical References
+
+This project studies the historical background of the 1991 Indian Economic Crisis, including:
+
+- Balance of Payments Crisis
+- Forex Reserve Decline
+- Inflation Rise
+- Fiscal Deficit Pressure
+- Gulf War Oil Shock
+- Economic Liberalization Background
+
+Historical information is inspired from:
+
+- RBI Reports
+- Economic Survey Documents
+- Government Publications
+- Public Economic Research Sources
+
+---
+
+# 🏛 Government & Institutional References
+
+The project concept references publicly available information from:
+
+- Reserve Bank of India (RBI)
+- Government of India
+- Ministry of Finance
+- World Bank
+- IMF Economic Reports
+
+---
+
+# 🎯 Learning Purpose
+
+This project is created for:
+
+- Educational Purposes
+- Data Analytics Learning
+- Economic Trend Visualization
+- Python Practice
+- Statistical Analysis Practice
+
+The project does not intend to provide financial, political, or policy advice.
+
+---
+
 # 🚀 Future Improvements
 
 Future upgrades planned for this project:
@@ -194,13 +259,13 @@ Future upgrades planned for this project:
 Clone the repository:
 
 ```bash
-git clone https://github.com/25f2005869-glitch/india-growth-dashboard.git
+git clone https://github.com/25f2005869-glitch/india-economic-analysis.git
 ```
 
 Go to project folder:
 
 ```bash
-cd india-growth-dashboard/1991-economic-crisis
+cd india-economic-analysis/1991-economic-crisis
 ```
 
 Install dependencies:

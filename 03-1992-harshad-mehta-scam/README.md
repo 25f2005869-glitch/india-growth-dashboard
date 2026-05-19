@@ -1,8 +1,8 @@
 # 📈 1992 Harshad Mehta Scam Analysis Dashboard
 
-A Python-based financial data analytics project focused on analyzing the **1992 Harshad Mehta Stock Market Scam** and its impact on the Indian stock market, banking system, inflation, and investor confidence.
+A Python-based financial analytics project focused on analyzing the **1992 Harshad Mehta Stock Market Scam** and its impact on the Indian economy, stock market, banking system, inflation, and investor confidence.
 
-This project uses **Python, Pandas, Matplotlib, NumPy, and Statistics** to visualize economic trends and understand one of the biggest financial scams in Indian history.
+This project uses **Python, Pandas, Matplotlib, NumPy, and Statistics** to visualize financial trends and explain one of the biggest scams in Indian financial history.
 
 ---
 
@@ -10,55 +10,59 @@ This project uses **Python, Pandas, Matplotlib, NumPy, and Statistics** to visua
 
 The main purpose of this project is to study:
 
-- Stock Market Boom and Crash
+- Stock Market Boom & Crash
 - Sensex Growth During Scam Period
 - Inflation Trend
-- Banking System Weakness
-- Economic & Regulatory Reforms
-- Financial Data Analysis using Python
+- Banking System Weaknesses
+- Financial Reforms After Scam
+- Data Analytics using Python
 
-This project also helps in understanding how the scam changed India's financial system and market regulations forever.
+This project also helps in understanding how the scam permanently changed India’s financial market regulations.
 
 ---
 
 # 🎯 Project Objectives
 
-- Analyze historical financial data
-- Visualize stock market fluctuations
-- Study the impact of the scam on investors
-- Understand economic reforms after the scam
-- Learn data analytics using Python
-- Build real-world financial analytics projects
+- Analyze historical stock market data
+- Visualize financial market fluctuations
+- Study investor panic and market collapse
+- Understand banking loopholes
+- Learn financial data analytics using Python
+- Build real-world economics & finance projects
 
 ---
 
 # 🛠 Technologies Used
 
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- Statistics
-- CSV Data Handling
+| Technology | Purpose |
+|---|---|
+| Python | Data Analysis |
+| Pandas | Data Processing |
+| Matplotlib | Data Visualization |
+| NumPy | Numerical Analysis |
+| Statistics | Statistical Insights |
+| CSV | Dataset Handling |
 
 ---
 
 # 📂 Project Structure
 
-1992-harshad-mehta-scam/
-
-├── analysis.py  
-├── dashboard.py  
-├── data/  
-│   └── scam_data.csv  
-├── charts/  
-│   ├── sensex_growth.png  
-│   ├── market_crash.png  
-│   ├── inflation_trend.png  
-│   └── banking_impact.png  
-├── harshad_mehta_analysis_output.png  
-├── requirements.txt  
-└── README.md
+```text
+india-growth-dashboard/
+│
+├── 03-1992-harshad-mehta-scam/
+│   │
+│   ├── README.md
+│   ├── analysis.py
+│   ├── dashboard.py
+│   ├── requirements.txt
+│   ├── scam_data.csv
+│   │
+│   ├── acc_stock_growth.png
+│   ├── sensex_crash.png
+│   ├── inflation_trend.png
+│   └── harshad_mehta_terminal_output.png
+```
 
 ---
 
@@ -66,45 +70,45 @@ This project also helps in understanding how the scam changed India's financial 
 
 This project analyzes:
 
-✅ Sensex Growth  
-✅ Market Crash Analysis  
+✅ ACC Stock Growth  
+✅ Sensex Crash Analysis  
 ✅ Inflation Trend  
-✅ Banking Crisis Impact  
+✅ Banking System Weakness  
 ✅ Investor Panic  
 ✅ Statistical Summary  
-✅ Economic Visualization
+✅ Financial Visualization
 
 ---
 
-# 📈 Sensex Growth Analysis
+# 📈 ACC Stock Growth Analysis
 
-The visualization shows the artificial stock market boom created during the scam period.
+This visualization shows the artificial stock market boom created during the scam period.
 
-## Output Visualization
-
-![Sensex Growth](charts/sensex_growth.png)
+<p align="center">
+  <img src="acc_stock_growth.png" width="700">
+</p>
 
 ### Insights
 
-- Stock prices increased abnormally
-- Market experienced artificial bullish growth
+- ACC share prices increased abnormally
+- Artificial bullish market behavior appeared
 - Investor speculation increased rapidly
 
 ---
 
-# 📉 Market Crash Analysis
+# 📉 Sensex Crash Analysis
 
-This chart represents the sudden market collapse after the scam exposure.
+This chart represents the sudden stock market collapse after the scam exposure.
 
-## Output Visualization
-
-![Market Crash](charts/market_crash.png)
+<p align="center">
+  <img src="sensex_crash.png" width="700">
+</p>
 
 ### Insights
 
-- Sensex crashed sharply after exposure
-- Investors suffered major losses
-- Banking liquidity problems increased
+- Sensex crashed sharply
+- Investors suffered huge losses
+- Market panic spread rapidly
 
 ---
 
@@ -112,51 +116,35 @@ This chart represents the sudden market collapse after the scam exposure.
 
 This visualization shows inflation fluctuations during the scam period.
 
-## Output Visualization
-
-![Inflation Trend](charts/inflation_trend.png)
+<p align="center">
+  <img src="inflation_trend.png" width="700">
+</p>
 
 ### Insights
 
-- Inflation pressure increased during instability
+- Inflation pressure increased
 - Economic uncertainty affected markets
-- Commodity prices became volatile
+- Commodity prices became unstable
 
 ---
 
-# 🏦 Banking System Impact
-
-This visualization represents the effect of fake banking transactions and liquidity misuse.
-
-## Output Visualization
-
-![Banking Impact](charts/banking_impact.png)
-
-### Insights
-
-- Weak banking controls were exposed
-- Fake Bank Receipts caused financial instability
-- Regulatory weaknesses became visible
-
----
-
-# 🖥 Analysis Terminal Output
+# 🖥 Terminal Output Snapshot
 
 The project also performs statistical analysis using Python.
 
-## Output Screenshot
-
-![Terminal Output](harshad_mehta_analysis_output.png)
+<p align="center">
+  <img src="harshad_mehta_terminal_output.png" width="700">
+</p>
 
 ### Statistical Outputs
 
 The analysis calculates:
 
-- Maximum Sensex Growth
+- Maximum Stock Growth
 - Average Market Growth
 - Inflation Statistics
-- Banking Impact Summary
-- Statistical Summary using Pandas
+- Market Crash Summary
+- Statistical Analysis using Pandas
 
 ---
 
@@ -169,7 +157,7 @@ The scam mainly worked through:
 - Banking loopholes
 - Artificial stock price manipulation
 
-Harshad Mehta used banking system weaknesses to inject huge money into selected stocks.
+Harshad Mehta used weaknesses in the banking system to inject huge amounts of money into selected stocks.
 
 ---
 
@@ -177,8 +165,8 @@ Harshad Mehta used banking system weaknesses to inject huge money into selected 
 
 ## Artificial Bull Run (1991–1992)
 
-- ACC shares rose from around ₹200 to nearly ₹9,000
-- Sensex crossed 4,000 points
+- ACC shares rose massively
+- Sensex crossed record levels
 - Investors entered aggressively
 
 ## Scam Exposure (April 1992)
@@ -187,30 +175,32 @@ Journalist **Sucheta Dalal** exposed the scam.
 
 After exposure:
 
-- Market crashed heavily
-- Sensex lost massive value
-- Banks demanded repayment
+- Stock market crashed heavily
+- Banks demanded repayments
 - Investor confidence collapsed
+- Financial instability increased
 
 ---
 
 # 🏛 Major Financial Reforms After Scam
 
-This scam changed India's financial system permanently.
+This scam permanently changed India’s financial system.
 
-## Key Reforms
+## ✅ SEBI Strengthened
 
-### ✅ SEBI Strengthened
+SEBI received stronger legal powers through the SEBI Act, 1992.
 
-SEBI received legal powers through the SEBI Act, 1992.
+---
 
-### ✅ NSE Establishment
+## ✅ NSE Establishment
 
-National Stock Exchange (NSE) was established to improve transparency.
+National Stock Exchange (NSE) was established to improve transparency and reduce manipulation.
 
-### ✅ Electronic Trading & Demat System
+---
 
-Paper share systems were replaced by digital trading and Demat accounts.
+## ✅ Electronic Trading & Demat System
+
+Paper share systems were gradually replaced with digital trading and Demat accounts.
 
 ---
 
@@ -220,19 +210,19 @@ Paper share systems were replaced by digital trading and Demat accounts.
 ✅ Market Trend Visualization  
 ✅ Statistical Calculations  
 ✅ CSV Dataset Handling  
-✅ Banking Impact Analysis  
-✅ Real-world Financial Insights
+✅ Banking Impact Understanding  
+✅ Real-world Financial Insights  
 
 ---
 
 # 📚 Learning Outcomes
 
-This project helped in learning:
+This project helps in understanding:
 
 - Financial Data Analytics
 - Python Programming
 - Pandas DataFrames
-- Data Visualization
+- Stock Market Visualization
 - Historical Market Analysis
 - Statistical Thinking
 - GitHub Project Structuring
@@ -243,7 +233,7 @@ This project helped in learning:
 
 The project uses educational and historical financial references for learning purposes.
 
-## 📑 Data Sources
+## 📑 Sources
 
 - Reserve Bank of India (RBI)
 - Securities and Exchange Board of India (SEBI)
@@ -251,32 +241,6 @@ The project uses educational and historical financial references for learning pu
 - BSE Historical Data
 - Economic Times Archives
 - Financial Express Reports
-- Business Standard Articles
-
----
-
-# 📖 Historical References
-
-This project is inspired by real historical events including:
-
-- 1992 Harshad Mehta Scam
-- Indian Stock Market Crash
-- Banking System Weaknesses
-- SEBI Reforms
-- NSE Establishment
-- Financial Liberalization Era
-
----
-
-# 🏛 Government & Institutional References
-
-The project references publicly available information from:
-
-- RBI Reports
-- SEBI Reports
-- Ministry of Finance
-- NSE India
-- BSE India
 
 ---
 
@@ -285,32 +249,69 @@ The project references publicly available information from:
 This project is created for:
 
 - Educational Purposes
-- Financial Data Learning
-- Economic Visualization
+- Financial Analytics Learning
 - Python Practice
-- Historical Market Analysis
+- Economic Visualization
+- Historical Stock Market Analysis
 
-The visualizations and datasets are simplified for educational understanding.
+The datasets and visualizations are simplified for educational understanding.
+
+---
+
+# ▶️ How to Run the Project
+
+## Step 1 — Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+## Step 2 — Run Analysis Script
+
+```bash
+python analysis.py
+```
+
+This script:
+- Performs statistical analysis
+- Generates market insights
+- Prints terminal summaries
+
+---
+
+## Step 3 — Run Dashboard Script
+
+```bash
+python dashboard.py
+```
+
+This script:
+- Generates charts automatically
+- Saves PNG files automatically
 
 ---
 
 # 🚀 Future Improvements
 
-Future upgrades planned for this project:
+Possible future upgrades:
 
 - Interactive Streamlit Dashboard
-- Real-Time Stock Market Data
+- Real-Time Market Data
 - AI-Based Market Prediction
-- Scam Network Visualization
-- Advanced Statistical Models
+- Fraud Detection Models
 - Investor Sentiment Analysis
-- Banking Fraud Detection Concepts
+- Advanced Statistical Visualization
 
 ---
 
-# 📦 Installation
+# 👩‍💻 Author
 
-Clone the repository:
+**Saloni Tiwari**
 
-```bash
-git clone https://github.com/25f2005869-glitch/india-growth-dashboard.git
+---
+
+# 📜 License
+
+This project is created for educational and learning purposes.

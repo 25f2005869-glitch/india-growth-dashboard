@@ -1,76 +1,119 @@
-# 🇮🇳 1991 Economic Crisis Analysis Dashboard
+# 🇮🇳 01-1991-Economic-Crisis
 
-A Python-based economic data analytics project focused on analyzing the **1991 Indian Economic Crisis** using data visualization, statistics, and trend analysis.
+# 📉 1991 Economic Crisis Analysis Dashboard
 
-This project demonstrates how India's economy faced severe financial instability during 1985–1995 and how major economic indicators changed during the crisis period.
+A Python-based economic analytics and visualization project focused on analyzing the historic **1991 Indian Economic Crisis** using data visualization, statistical analysis, and trend analysis.
 
----
+This project studies India's financial instability during the late 1980s and early 1990s and visualizes how major economic indicators changed during the crisis period.
 
-# 📌 Project Purpose
+The project combines:
 
-The main purpose of this project is to study:
+- Economics
+- Statistics
+- Data Analytics
+- Data Visualization
+- Python Programming
 
-- India's GDP Growth during the crisis period
-- Forex Reserve decline
-- Inflation trend
-- Economic instability before reforms
-- Data analysis using Python
-
-This project also helps in understanding the background of the **1991 Liberalization Reforms**.
+to explain one of the most important turning points in Indian economic history.
 
 ---
 
-# 🎯 Objectives
+# 📚 Historical Background
 
-- Analyze economic indicators using datasets
-- Visualize India's financial condition before reforms
-- Learn Data Analysis using Python
-- Practice Pandas and Matplotlib
-- Build real-world economic analytics projects
+In 1991, India faced one of the biggest economic crises in its modern history.
+
+The country suffered from:
+
+- Extremely low foreign exchange reserves
+- High inflation
+- Fiscal deficit pressure
+- External debt crisis
+- Weak industrial growth
+- Balance of Payments (BoP) crisis
+
+India's foreign exchange reserves fell so low that the country had reserves sufficient for only a few weeks of imports.
+
+Several factors worsened the crisis:
+
+- Gulf War Oil Price Shock
+- Rising import bills
+- Weak export growth
+- Heavy government borrowing
+- Political instability
+
+This crisis later forced India to introduce the historic:
+
+## LPG Reforms
+
+- Liberalization
+- Privatization
+- Globalization
+
+under Prime Minister **P. V. Narasimha Rao** and Finance Minister **Dr. Manmohan Singh**.
+
+---
+
+# 🎯 Project Objectives
+
+The main objectives of this project are:
+
+- Analyze India's economic indicators during the crisis period
+- Visualize GDP growth fluctuations
+- Study forex reserve decline
+- Analyze inflation trends
+- Practice Data Analytics using Python
+- Build real-world economics dashboards
+- Understand the background of 1991 reforms
 
 ---
 
 # 🛠 Technologies Used
 
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- Statistics
-- CSV Data Handling
+| Technology | Purpose |
+|---|---|
+| Python | Core Programming |
+| Pandas | Data Analysis |
+| Matplotlib | Data Visualization |
+| NumPy | Numerical Calculations |
+| Statistics | Statistical Analysis |
+| CSV Files | Dataset Handling |
 
 ---
 
 # 📂 Project Structure
 
-1991-economic-crisis/
-
-├── analysis.py  
-├── dashboard.py  
-├── data/  
-│   └── crisis_data.csv  
+```text
+india-growth-dashboard/
 │
-├── charts/  
-│   ├── gdp_growth.png  
-│   ├── forex_reserves.png  
-│   ├── inflation_trend.png  
-│   └── economic_crisis_terminal_output.png  
+├── 01-1991-economic-crisis/
+│   │
+│   ├── README.md
+│   ├── analysis.py
+│   ├── dashboard.py
+│   ├── crisis_data.csv
+│   ├── requirements.txt
+│   │
+│   ├── gdp_growth.png
+│   ├── forex_reserves.png
+│   ├── inflation_trend.png
+│   └── economic_crisis_terminal_output.png
 │
-├── requirements.txt  
 └── README.md
+```
 
 ---
 
 # 📊 Economic Indicators Included
 
-This project analyzes:
+This project analyzes and visualizes:
 
 ✅ GDP Growth Rate  
-✅ Forex Reserves  
+✅ Forex Reserve Decline  
 ✅ Inflation Trend  
 ✅ Economic Slowdown  
+✅ Balance of Payments Crisis  
 ✅ Statistical Summary  
-✅ Economic Visualization
+✅ Economic Visualization  
 
 ---
 
@@ -78,15 +121,16 @@ This project analyzes:
 
 The GDP visualization shows how India's economic growth fluctuated during the crisis period.
 
-## Output Visualization
+<p align="center">
+  <img src="gdp_growth.png" width="750">
+</p>
 
-![GDP Growth](charts/gdp_growth.png)
+### 📌 Insights
 
-### Insights
-
-- GDP growth dropped sharply before reforms
-- Economic instability affected national production
-- Growth recovered gradually after policy changes
+- GDP growth declined sharply before reforms
+- Industrial productivity weakened
+- Economic instability affected national growth
+- Recovery began after policy reforms
 
 ---
 
@@ -94,15 +138,16 @@ The GDP visualization shows how India's economic growth fluctuated during the cr
 
 This chart represents India's foreign exchange reserves during the crisis years.
 
-## Output Visualization
+<p align="center">
+  <img src="forex_reserves.png" width="750">
+</p>
 
-![Forex Reserves](charts/forex_reserves.png)
+### 📌 Insights
 
-### Insights
-
-- Forex reserves became critically low
-- India faced a balance of payments crisis
-- The country struggled to pay import bills
+- Forex reserves dropped critically
+- India faced severe import payment pressure
+- External financial stability weakened
+- The country faced a Balance of Payments crisis
 
 ---
 
@@ -110,107 +155,109 @@ This chart represents India's foreign exchange reserves during the crisis years.
 
 This visualization shows inflation fluctuations during the economic crisis period.
 
-## Output Visualization
+<p align="center">
+  <img src="inflation_trend.png" width="750">
+</p>
 
-![Inflation Trend](charts/inflation_trend.png)
+### 📌 Insights
 
-### Insights
-
-- Inflation increased rapidly during instability
+- Inflation increased rapidly
 - Rising prices affected common people
-- Fuel and commodity prices increased significantly
+- Fuel and commodity prices surged
+- Economic uncertainty increased nationwide
 
 ---
 
-# 🖥 Terminal Output
+# 🖥 Terminal Output Snapshot
 
-The project also performs statistical analysis using Python.
+The project performs statistical analysis using Python.
 
-## Output Screenshot
+<p align="center">
+  <img src="economic_crisis_terminal_output.png" width="750">
+</p>
 
-![Terminal Output](charts/economic_crisis_terminal_output.png)
-
-### Statistical Outputs
+### 📌 Statistical Outputs
 
 The analysis calculates:
 
 - Maximum GDP Growth
 - Average GDP Growth
 - Minimum Forex Reserves
-- Summary Statistics using Pandas
+- Inflation Statistics
+- Economic Trend Analysis
+- Statistical Summary using Pandas
 
 ---
 
 # 📊 Features
 
-✅ Data Analysis using Pandas  
-✅ Economic Trend Visualization  
-✅ CSV Dataset Handling  
-✅ Statistical Calculations  
-✅ Multiple Economic Indicators  
-✅ Real-world Economic Insights
+## Economic Data Analysis
+
+- GDP Growth Analysis
+- Forex Reserve Analysis
+- Inflation Analysis
+- Economic Trend Analysis
+- Statistical Calculations
+- CSV Dataset Processing
+
+---
+
+## Data Visualization
+
+The project automatically generates:
+
+- GDP Growth Charts
+- Forex Reserve Charts
+- Inflation Trend Charts
+- Statistical Output Images
+
+All PNG files are generated automatically using Matplotlib.
 
 ---
 
 # 📚 Learning Outcomes
 
-This project helped in learning:
+This project helps in understanding:
 
-- Python Programming
-- Data Analytics
-- Pandas DataFrame Operations
-- Economic Data Visualization
+- Indian Economic Crisis
+- Economic Liberalization Background
+- Data Analytics using Python
 - Statistical Thinking
+- Economic Data Visualization
+- Pandas DataFrames
 - GitHub Project Structuring
+- Economic Research Concepts
 
 ---
 
-# 🇮🇳 Historical Background
+# 🇮🇳 Importance of the 1991 Crisis
 
-In 1991, India faced one of its biggest economic crises due to:
+The 1991 crisis became one of the most important turning points in Indian economic history.
 
-- High fiscal deficit
-- Low forex reserves
-- Rising inflation
-- External debt pressure
-- Gulf War oil price shock
+The crisis forced India to:
 
-This crisis later led to the famous **1991 Economic Reforms and Liberalization Policies**.
+- Open markets globally
+- Reduce government control
+- Encourage foreign investment
+- Modernize industries
+- Reform taxation and trade systems
+
+These reforms later transformed India into one of the world's fastest-growing economies.
 
 ---
 
 # 📚 Data Sources & References
 
-The datasets, historical references, and economic insights used in this project are inspired from publicly available and educational sources.
+The project uses educational and publicly available economic references.
 
-## 📊 Data Sources
+## 📊 Sources
 
 - Reserve Bank of India (RBI)
 - World Bank Open Data
 - International Monetary Fund (IMF)
 - Ministry of Finance, Government of India
-- MOSPI (Ministry of Statistics and Programme Implementation)
+- MOSPI
 - Economic Survey of India
-
----
-
-# 📖 Historical References
-
-This project studies the historical background of the 1991 Indian Economic Crisis, including:
-
-- Balance of Payments Crisis
-- Forex Reserve Decline
-- Inflation Rise
-- Fiscal Deficit Pressure
-- Gulf War Oil Shock
-- Economic Liberalization Background
-
-Historical information is inspired from:
-
-- RBI Reports
-- Economic Survey Documents
-- Government Publications
-- Public Economic Research Sources
 
 ---
 
@@ -218,73 +265,78 @@ Historical information is inspired from:
 
 The project concept references publicly available information from:
 
-- Reserve Bank of India (RBI)
-- Government of India
-- Ministry of Finance
-- World Bank
-- IMF Economic Reports
+- RBI Reports
+- Government Economic Reports
+- IMF Reports
+- World Bank Economic Data
+- Ministry of Finance Publications
 
 ---
 
-# 🎯 Learning Purpose
+# 🎓 Learning Purpose
 
 This project is created for:
 
 - Educational Purposes
-- Data Analytics Learning
-- Economic Trend Visualization
+- Economic Analytics Learning
 - Python Practice
-- Statistical Analysis Practice
+- Statistics Learning
+- Visualization Practice
+- Data Science Projects
 
-The project does not intend to provide financial, political, or policy advice.
-
----
-
-# 🚀 Future Improvements
-
-Future upgrades planned for this project:
-
-- Interactive Streamlit Dashboard
-- Real Government Economic Dataset
-- Rupee Devaluation Analysis
-- Harshad Mehta Scam Analysis
-- Oil Price Impact Study
-- Share Market Trend Analysis
-- AI-Based Economic Predictions
+This project does not provide financial or investment advice.
 
 ---
 
-# 📦 Installation
+# ▶️ How to Run the Project
 
-Clone the repository:
-
-```bash
-git clone https://github.com/25f2005869-glitch/india-economic-analysis.git
-```
-
-Go to project folder:
-
-```bash
-cd india-economic-analysis/1991-economic-crisis
-```
-
-Install dependencies:
+## Step 1 — Install Required Libraries
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run analysis:
+---
+
+## Step 2 — Run Analysis File
 
 ```bash
 python analysis.py
 ```
 
-Run dashboard:
+This script:
+
+- Performs statistical analysis
+- Generates economic insights
+- Displays summary statistics
+
+---
+
+## Step 3 — Run Dashboard File
 
 ```bash
 python dashboard.py
 ```
+
+This script:
+
+- Generates charts automatically
+- Saves PNG files automatically
+- Creates dashboard visualizations
+
+---
+
+# 🚀 Future Improvements
+
+Possible future upgrades:
+
+- Streamlit Interactive Dashboard
+- Real Government Dataset Integration
+- Oil Price Impact Analysis
+- Rupee Devaluation Study
+- Advanced Economic Dashboards
+- AI-Based Economic Predictions
+- Interactive Visualizations
 
 ---
 
@@ -292,12 +344,10 @@ python dashboard.py
 
 **Saloni Tiwari**
 
-Python | Data Analytics | Statistics | Economic Data Visualization
+Python | Data Analytics | Statistics | Economic Visualization
 
 ---
 
-# ⭐ GitHub Repository
+# 📜 License
 
-If you found this project useful, consider giving it a ⭐ on GitHub.
-
----
+This project is created for educational and learning purposes.

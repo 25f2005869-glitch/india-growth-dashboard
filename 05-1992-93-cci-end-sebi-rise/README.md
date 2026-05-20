@@ -265,37 +265,17 @@ SEBI introduced:
 
 ![Capital Raised Growth](charts/capital_raised_growth.png)
 
-### Analysis
-This chart shows how capital raised in Indian markets increased rapidly after SEBI reforms.
-
----
-
 # 📉 Investor Protection
 
 ![Investor Protection](charts/investor_protection.png)
-
-### Analysis
-Investor complaint resolution improved significantly after SEBI became a statutory regulator.
-
----
 
 # 📊 Market Modernization
 
 ![Market Modernization](charts/market_modernization.png)
 
-### Analysis
-This visualization represents India's transition from controlled markets to modern regulated financial systems.
-
----
-
 # 📈 Market Volatility
 
 ![Market Volatility](charts/market_volatility.png)
-
-### Analysis
-Market volatility reduced statistically after SEBI regulations strengthened transparency and market discipline.
-
----
 
 # 📉 SEBI Growth Analysis
 

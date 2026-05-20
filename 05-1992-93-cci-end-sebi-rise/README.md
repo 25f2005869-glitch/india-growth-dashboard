@@ -171,7 +171,9 @@ After SEBI:
 
 ## Variance Formula
 
+```math
 σ² = (1/N) Σ(xᵢ − μ)²
+```
 
 ## Statistical Interpretation
 
@@ -255,22 +257,52 @@ SEBI introduced:
 
 ---
 
-# Best Charts Included
+# 📊 Charts & Visualizations
 
-## 📊 Market Volatility
-Before vs After SEBI regulation
+---
 
-## 📈 Capital Raised Growth
-Growth in market participation
+# 📈 Capital Raised Growth
 
-## 📉 Investor Protection
-Increase in complaint resolution
+![Capital Raised Growth](charts/capital_raised_growth.png)
 
-## 📊 Market Modernization
-Capital growth vs volatility reduction
+### Analysis
+This chart shows how capital raised in Indian markets increased rapidly after SEBI reforms.
 
-## 📈 SEBI Growth Analysis
-Rise of modern regulated capital markets
+---
+
+# 📉 Investor Protection
+
+![Investor Protection](charts/investor_protection.png)
+
+### Analysis
+Investor complaint resolution improved significantly after SEBI became a statutory regulator.
+
+---
+
+# 📊 Market Modernization
+
+![Market Modernization](charts/market_modernization.png)
+
+### Analysis
+This visualization represents India's transition from controlled markets to modern regulated financial systems.
+
+---
+
+# 📈 Market Volatility
+
+![Market Volatility](charts/market_volatility.png)
+
+### Analysis
+Market volatility reduced statistically after SEBI regulations strengthened transparency and market discipline.
+
+---
+
+# 📉 SEBI Growth Analysis
+
+![SEBI Growth](charts/sebi_growth.png)
+
+### Analysis
+The chart reflects the rise of modern capital market governance after 1992 reforms.
 
 ---
 
@@ -310,6 +342,7 @@ This creates a highly advanced analytical financial project.
 │   ├── market_modernization.png
 │   ├── market_volatility.png
 │   ├── sebi_growth.png
+│   └── sebi_terminal_output.png
 │
 ├── data/
 │   └── sebi_reforms_data.csv
@@ -337,7 +370,7 @@ The dataset was structured for educational analysis, statistical learning, and v
 
 ---
 
-# Source References
+# 📚 Source References
 
 ## SEBI
 https://www.sebi.gov.in/

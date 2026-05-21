@@ -1,3 +1,5 @@
+
+
 # 06-1992-94-NSE-Electronic-Revolution
 
 # Indian Stock Market Modernization
@@ -267,17 +269,32 @@ This creates a direct connection between:
 ## 📈 Trading Volume Growth
 Rise of electronic trading participation
 
+![Trading Volume Growth](trading_volume_growth.png)
+
 ## 📉 Settlement Reduction
 Reduction in settlement cycle delays
+
+![Settlement Reduction](settlement_reduction.png)
 
 ## 📊 Liquidity Growth
 Improvement in market liquidity
 
+![Liquidity Growth](liquidity_growth.png)
+
 ## 📈 Market Transparency
 Transparency and efficiency after NSE
 
+![Market Transparency](market_transparency.png)
+
 ## 📊 Electronic Trading Growth
 Rise in FII participation
+
+![Electronic Trading Growth](electronic_trading_growth.png)
+
+## 🖥️ NSE Trading Terminal
+Sample screenshot of NEAT electronic terminal
+
+![NSE Terminal Output](nse_terminal_output.png)
 
 ---
 
@@ -311,20 +328,16 @@ This creates a highly advanced financial analytics project.
 ```bash
 06-1992-94-nse-electronic-revolution/
 │
-├── charts/
-│   ├── trading_volume_growth.png
-│   ├── settlement_reduction.png
-│   ├── liquidity_growth.png
-│   ├── market_transparency.png
-│   ├── electronic_trading_growth.png
-│   └── nse_terminal_output.png
-│
-├── data/
-│   └── nse_revolution_data.csv
-│
 ├── analysis.py
 ├── dashboard.py
 ├── requirements.txt
+├── nse_revolution_data.csv
+├── trading_volume_growth.png
+├── settlement_reduction.png
+├── liquidity_growth.png
+├── market_transparency.png
+├── electronic_trading_growth.png
+├── nse_terminal_output.png
 └── README.md
 ```
 

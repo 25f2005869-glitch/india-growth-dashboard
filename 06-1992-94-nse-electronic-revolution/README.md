@@ -14,7 +14,7 @@
 
 # Project Overview
 
-This project analyzes one of the biggest technological and financial transformations in Indian capital market history:
+This project analyzes one of the biggest technological and financial transformations in India's capital market history:
 the rise of the **National Stock Exchange (NSE)** and the beginning of India's **electronic trading revolution** during 1992–1994.
 
 The project studies how India moved from:
@@ -248,7 +248,7 @@ Higher liquidity reduced:
 
 ## Correlation Concept
 
-:contentReference[oaicite:0]{index=0}
+The correlation between liquidity and trading volume is shown in the generated charts below.
 
 ## Interpretation
 

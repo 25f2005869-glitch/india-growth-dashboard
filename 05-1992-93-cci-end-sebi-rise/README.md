@@ -480,5 +480,13 @@ The dataset represents modeled historical reform trends for educational and anal
 
 Made with Python, Statistics, Finance, and Data Analysis.
 
-# Author
-## Saloni Tiwari
+---
+# 👩‍💻 Author
+
+**Saloni Tiwari**
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this project useful, consider giving it a ⭐ on GitHub.

@@ -6,7 +6,7 @@
 ![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
 ![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
-A comprehensive collection of Python-based Economic Analytics projects focused on analyzing India's economic history, major reforms, financial crises, macroeconomic indicators, and development journey using Data Analytics, Statistics, Visualization, SQL, and Interactive Dashboards.
+A comprehensive collection of Python-based Economic Analytics projects focused on analyzing India's economic history, major reforms, financial crises, macroeconomic indicators, and development journey.
 
 This repository transforms important economic events and reforms into data-driven analytical projects to bridge the gap between economics and modern data science techniques.
 
@@ -70,23 +70,36 @@ This repository is designed to help learners:
 INDIA-ECONOMIC-REFORMS-SERIES/
 │
 ├── 01-1991-economic-crisis/
+│   ├── charts/
+│   │   ├── economic_crisis_terminal_output.png
+│   │   ├── forex_reserves.png
+│   │   ├── gdp_growth.png
+│   │   └── inflation_trend.png
+│   ├── data/
+│   │   └── crisis_data.csv
+│   ├── sql/
+│   │   └── crisis_analysis.sql
+│   ├── analysis.py
+│   ├── dashboard.py
+│   ├── requirements.txt
+│   └── README.md
 │
 ├── 02-1991-economic-reforms/
-│
+│   └── ...
 ├── 03-rupee-devaluation-analysis/
-│
+│   └── ...
 ├── 04-harshad-mehta-scam-analysis/
-│
+│   └── ...
 ├── 05-oil-price-impact-analysis/
-│
+│   └── ...
 ├── 06-inflation-vs-common-goods/
-│
+│   └── ...
 ├── 07-agriculture-vs-inflation/
-│
+│   └── ...
 ├── 08-share-market-analytics/
-│
+│   └── ...
 ├── 09-employment-trend-analysis/
-│
+│   └── ...
 └── README.md
 ```
 
@@ -94,17 +107,24 @@ INDIA-ECONOMIC-REFORMS-SERIES/
 
 # 🚀 Current Projects
 
-| No. | Project | Core Focus |
-|------|----------|-------------|
-| 01 | 1991 Economic Crisis | Forex Crisis, Inflation & GDP Instability |
-| 02 | 1991 Economic Reforms | Liberalization, Privatization & Globalization |
-| 03 | Rupee Devaluation Analysis | Currency Depreciation & Forex Impact |
-| 04 | Harshad Mehta Scam Analysis | Share Market Manipulation & Banking Crisis |
-| 05 | Oil Price Impact Analysis | Crude Oil Prices & Indian Economy |
-| 06 | Inflation vs Common Goods | Purchasing Power & Daily Life Inflation |
-| 07 | Agriculture vs Inflation | Food Prices & Agricultural Economics |
-| 08 | Share Market Analytics | Indian Stock Market Trends |
-| 09 | Employment Trend Analysis | Jobs, Workforce & Economic Growth |
+| No. | Project                                                        | Core Focus                                              |
+|-----|----------------------------------------------------------------|---------------------------------------------------------|
+| 01  | 1991 Economic Crisis                                           | Forex Crisis, Inflation & GDP Instability               |
+| 02  | India Growth Dashboard                                         | Macroeconomic Trends & India Growth Story               |
+| 03  | Harshad Mehta Scam                                             | Share Market Manipulation & Banking Crisis              |
+| 04  | 1993 Tax Reforms Analysis                                      | Tax Structure Reform & Fiscal Policy                    |
+| 05  | 1992-93 CCI and SEBI Rise                                      | Regulatory Evolution in Indian Markets                  |
+| 06  | 1992-94 NSE Electronic Revolution                              | Automation of Stock Exchange                            |
+| 07  | 1993 Private Banking Revolution                                | Banking Sector Transformation                           |
+| 08  | 1994 Service Tax Introduction                                  | Indirect Taxation & Services Sector                     |
+| 09  | 1995 WTO Membership - India                                    | Foreign Trade, Tariff Policy & Globalization            |
+| 10  | 1998 Pokhran Sanctions & Resurgent Bond                        | Forex Solution & External Challenges                    |
+| 11  | 2000 Foreign Exchange Management Act (FEMA)                    | Reforms in Forex Regulation                             |
+| 12  | 2003 FRBM Act & Fiscal Discipline                              | Fiscal Deficit Control and Fiscal Policy                |
+| 13  | 2006 MGNREGA Rural Employment Guarantee                        | Welfare Economics & Employment Generation               |
+| 14  | 2008 Global Financial Crisis & India Resilience                | Economic Downturn & Indian Response                     |
+| 15  | 2001 Abdul Karim Telgi Stamp Scam                              | Counterfeit, Scams & Regulation Strengthening           |
+| 16  | 2009 Satyam Computers Collapse                                 | Corporate Fraud, Governance & Audit                     |
 
 ---
 
@@ -112,37 +132,55 @@ INDIA-ECONOMIC-REFORMS-SERIES/
 
 Every project contains:
 
-✅ Dataset Analysis
-
-✅ Statistical Insights
-
-✅ Trend Analysis
-
-✅ Economic Visualization
-
-✅ Correlation Analysis
-
-✅ Streamlit Dashboard
-
-✅ Python-Based Analytics
-
-✅ Research-Oriented Structure
-
-✅ Documentation & Insights
+✅ Dataset Analysis  
+✅ Statistical Insights  
+✅ Trend Analysis  
+✅ Economic Visualization  
+✅ Correlation Analysis  
+✅ Streamlit Dashboard  
+✅ Python-Based Analytics  
+✅ Research-Oriented Structure  
+✅ Documentation & Insights  
 
 ---
 
-# 📷 Repository Preview
+# 📊 Data Visualizations (1991 Economic Crisis Example)
+
+## Terminal Output
+
+![Terminal Output](charts/economic_crisis_terminal_output.png)
+
+---
+
+## 1. Forex Reserves
+
+![Forex Reserves](charts/forex_reserves.png)
+
+---
+
+## 2. GDP Growth
+
+![GDP Growth](charts/gdp_growth.png)
+
+---
+
+## 3. Inflation Trend
+
+![Inflation Trend](charts/inflation_trend.png)
+
+---
+
+# 📷 Repository Dashboards
 
 ## 📉 1991 Economic Crisis Dashboard
 
-![1991 Crisis Dashboard](01-1991-economic-crisis/charts/dashboard_preview.png)
+![1991 Crisis Dashboard](charts/dashboard_preview.png)
 
 ---
 
 ## 📈 1991 Economic Reforms Dashboard
 
-![1991 Reforms Dashboard](02-1991-economic-reforms/charts/dashboard_preview.png)
+*(Next Project Example)*
 
 ---
 
@@ -210,11 +248,8 @@ Each project follows a standardized structure:
 project-folder/
 │
 ├── charts/
-│
 ├── data/
-│
 ├── sql/
-│
 ├── analysis.py
 ├── dashboard.py
 ├── requirements.txt
@@ -378,8 +413,7 @@ This repository supports:
 
 ## Saloni Tiwari
 
-🎓 IIT Madras BS Degree in Data Science
-
+🎓 IIT Madras BS Degree in Data Science  
 🎓 B.Sc Mathematics
 
 ### Skills
@@ -396,22 +430,17 @@ This repository supports:
 
 # ⭐ Repository Status
 
-✅ Active Repository
-
-✅ Long-Term Economic Analytics Series
-
-✅ Research-Oriented Project Collection
-
-✅ Dashboard & Visualization Integration
-
+✅ Active Repository  
+✅ Long-Term Economic Analytics Series  
+✅ Research-Oriented Project Collection  
+✅ Dashboard & Visualization Integration  
 ✅ Portfolio Ready
 
 ---
 
 # 📢 Repository Vision
 
-Studying India's Economic Journey Through Data Analytics
-
+Studying India's Economic Journey Through Data Analytics  
 Transforming economic history, reforms, crises, and macroeconomic indicators into actionable insights using Python, Statistics, SQL, Visualization, and Interactive Dashboards.
 
 ---

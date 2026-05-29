@@ -579,6 +579,10 @@ This repository does not provide financial or investment advice.
 # 👩‍💻 Author
 
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
 
 Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
 

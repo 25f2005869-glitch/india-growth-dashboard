@@ -1,8 +1,15 @@
+# INDIA-ECONOMIC-REFORMS-SERIES  
 # 🇮🇳 India Growth & Development Dashboard (1991–2025)
 
 A Python-based economic data analytics project focused on analyzing India's economic growth journey from 1991 to 2025 using data visualization, statistics, and trend analysis.
 
 This project studies India's economic transformation after the 1991 Economic Reforms and visualizes major economic indicators through Python analytics tools.
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
 ---
 
@@ -26,6 +33,27 @@ The project demonstrates practical usage of:
 
 ---
 
+# 📂 Project Structure
+
+```text
+02-india-growth-dashboard/
+│
+├── charts/
+│   ├── analysis_terminal_output.png
+│   ├── forex_reserves.png
+│   └── gdp_growth.png
+│
+├── data/
+│   └── india_growth_data.csv
+│
+├── analysis.py
+├── dashboard.py
+├── requirements.txt
+└── README.md
+```
+
+---
+
 # 🎯 Project Objectives
 
 - Analyze India's economic growth after 1991 reforms
@@ -33,39 +61,6 @@ The project demonstrates practical usage of:
 - Practice Data Analytics using Python
 - Build real-world economic analytics dashboards
 - Understand economic growth through datasets
-
----
-
-# 🛠 Technologies Used
-
-- Python
-- Pandas
-- Matplotlib
-- NumPy
-- Statistics
-- CSV Data Handling
-
----
-
-# 📂 Project Structure
-
-1991-economic-reforms/
-
-├── analysis.py
-
-├── dashboard.py
-
-├── india_growth_data.csv
-
-├── gdp_growth.png
-
-├── forex_reserves.png
-
-├── analysis_terminal_output.png
-
-├── README.md
-
-└── requirements.txt
 
 ---
 
@@ -82,13 +77,29 @@ This project analyzes:
 
 ---
 
+# 📈 Data Visualizations
+
+## Terminal Output
+
+![Terminal Output](charts/analysis_terminal_output.png)
+
+---
+
+## GDP Growth
+
+![GDP Growth](charts/gdp_growth.png)
+
+---
+
+## Forex Reserves
+
+![Forex Reserves](charts/forex_reserves.png)
+
+---
+
 # 📈 GDP Growth Visualization
 
 The GDP chart visualizes India's economic growth trend after the 1991 reforms.
-
-## Output Visualization
-
-![GDP Growth](gdp_growth.png)
 
 ### Insights
 
@@ -102,10 +113,6 @@ The GDP chart visualizes India's economic growth trend after the 1991 reforms.
 
 This chart represents India's foreign exchange reserve growth after the economic reforms.
 
-## Output Visualization
-
-![Forex Reserves](forex_reserves.png)
-
 ### Insights
 
 - Forex reserves increased significantly
@@ -118,18 +125,24 @@ This chart represents India's foreign exchange reserve growth after the economic
 
 The project performs statistical analysis using Python.
 
-## Output Screenshot
-
-![Terminal Output](analysis_terminal_output.png)
-
 ### Statistical Outputs
 
 The analysis calculates:
-
 - Maximum GDP Growth
 - Average GDP Growth
 - Maximum Forex Reserves
 - Summary Statistics using Pandas
+
+---
+
+# 🛠 Technologies Used
+
+- Python
+- Pandas
+- Matplotlib
+- NumPy
+- Statistics
+- CSV Data Handling
 
 ---
 
@@ -257,13 +270,13 @@ Future upgrades planned for this project:
 Clone the repository:
 
 ```bash
-git clone https://github.com/25f2005869-glitch/india-growth-dashboard.git
+git clone https://github.com/25f2005869-glitch/INDIA-ECONOMIC-REFORMS-SERIES.git
 ```
 
 Go to project folder:
 
 ```bash
-cd india-growth-dashboard/1991-economic-reforms
+cd INDIA-ECONOMIC-REFORMS-SERIES/02-india-growth-dashboard
 ```
 
 Install dependencies:
@@ -299,3 +312,4 @@ Python | Data Analytics | Statistics | Economic Data Visualization
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ---
+

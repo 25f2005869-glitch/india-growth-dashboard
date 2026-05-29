@@ -83,23 +83,22 @@ INDIA-ECONOMIC-REFORMS-SERIES/
 │   ├── dashboard.py
 │   ├── requirements.txt
 │   └── README.md
+├── 02-india-growth-dashboard/
+├── 03-1992-harshad-mehta-scam/
+├── 04-1993-tax-reforms-analysis/
+├── 05-1992-93-cci-and-sebi-rise/
+├── 06-1992-94-nse-electronic-revolution/
+├── 07-1993-private-banking-revolution/
+├── 08-1994-service-tax-introduction/
+├── 09-1995-wto-membership-india/
+├── 10-1998-pokhran-sanctions-resurgent-bond/
+├── 11-2000-foreign-exchange-management-act/
+├── 12-2003-frbm-act-fiscal-discipline/
+├── 13-2006-mgnrega-rural-employment-guarantee/
+├── 14-2008-global-financial-crisis-india-resilience/
+├── 15-2001-abdul-karim-telgi-stamp-scam/
+├── 16_2009-satyam-computers-collapse/
 │
-├── 02-1991-economic-reforms/
-│   └── ...
-├── 03-rupee-devaluation-analysis/
-│   └── ...
-├── 04-harshad-mehta-scam-analysis/
-│   └── ...
-├── 05-oil-price-impact-analysis/
-│   └── ...
-├── 06-inflation-vs-common-goods/
-│   └── ...
-├── 07-agriculture-vs-inflation/
-│   └── ...
-├── 08-share-market-analytics/
-│   └── ...
-├── 09-employment-trend-analysis/
-│   └── ...
 └── README.md
 ```
 
@@ -168,13 +167,7 @@ Every project contains:
 
 ![Inflation Trend](charts/inflation_trend.png)
 
----
 
-# 📷 Repository Dashboards
-
-## 📉 1991 Economic Crisis Dashboard
-
-![1991 Crisis Dashboard](charts/dashboard_preview.png)
 
 ---
 

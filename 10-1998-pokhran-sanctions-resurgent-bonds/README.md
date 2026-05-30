@@ -1,12 +1,15 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 10-1998-Pokhran-Sanctions-Resurgent-Bonds
 
 # Economic Sovereignty Under Global Sanctions
 ## Pokhran-II, Economic Pressure & India's Financial Response
 
 ---
-
-# Author
-## Saloni Tiwari
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
 ---
 
@@ -299,29 +302,53 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📈 Forex Reserve Recovery
-Recovery after sanctions
+## Terminal Output
 
-## 📉 FII Outflow Shock
-Foreign capital withdrawal
+![Terminal Output](charts/pokhran_terminal_output.png)
 
-## 📊 RIB Investment Growth
-NRI confidence in India
+---
 
-## 📈 Sanctions vs Recovery
-External pressure vs resilience
+## Forex Reserve Recovery
 
-## 📉 Rupee Volatility
-Currency pressure during sanctions
+![Forex Reserve Recovery](charts/forex_reserve_recovery.png)
 
-## 📊 Economic Resilience
-GDP & reserve recovery
+---
 
-## 📈 Sovereign Confidence
-Rise of economic trust
+## FII Outflow Shock
 
+![FII Outflow Shock](charts/fii_outflow_shock.png)
+
+---
+
+## RIB Investment Growth
+
+![RIB Investment Growth](charts/rib_investment_growth.png)
+
+---
+
+## Sanctions vs Recovery
+
+![Sanctions vs Recovery](charts/sanctions_vs_recovery.png)
+
+---
+
+## Rupee Volatility
+
+![Rupee Volatility](charts/rupee_volatility.png)
+
+---
+
+## Economic Resilience
+
+![Economic Resilience](charts/economic_resilience.png)
+
+---
+
+## Sovereign Confidence
+
+![Sovereign Confidence](charts/sovereign_confidence.png)
 ---
 
 # Why This Project Is Powerful
@@ -499,3 +526,21 @@ Made with Python, Statistics, Macroeconomics, and Geopolitical Financial Researc
 
 # Author
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
+
+Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 Repository Draft Reference
+
+Based on repository draft structure and uploaded project documentation.

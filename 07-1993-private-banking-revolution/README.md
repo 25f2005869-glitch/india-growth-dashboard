@@ -1,3 +1,4 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 07-1993-Private-Banking-Revolution
 
 # Indian Banking Modernization
@@ -5,8 +6,12 @@
 
 ---
 
-# Author
-## Saloni Tiwari
+
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
 ---
 
@@ -336,25 +341,47 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📈 Private Credit Growth
-Expansion of lending activity
+## Terminal Output
 
-## 📊 ATM Expansion
-Growth of modern banking infrastructure
+![Terminal Output](charts/banking_terminal_output.png)
 
-## 📉 NPA Management
-Reduction in banking risk
+---
 
-## 📈 Banking Efficiency
-Improvement in customer service
+## Private Credit Growth
 
-## 📊 Financial Inclusion
-Growth of private banking participation
+![Private Credit Growth](charts/private_credit_growth.png)
 
-## 📈 GDP & Credit Correlation
-Economic growth vs banking expansion
+---
+
+## ATM Expansion
+
+![ATM Expansion](charts/atm_expansion.png)
+
+---
+
+## NPA Management
+
+![NPA Management](charts/npa_management.png)
+
+---
+
+## Banking Efficiency
+
+![Banking Efficiency](charts/banking_efficiency.png)
+
+---
+
+## Financial Inclusion
+
+![Financial Inclusion](charts/financial_inclusion.png)
+
+---
+
+## GDP & Credit Correlation
+
+![GDP & Credit Correlation](charts/gdp_credit_correlation.png)
 
 ---
 
@@ -546,3 +573,21 @@ Made with Python, Statistics, Banking Analytics, and Financial Research.
 
 # Author
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
+
+Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 Repository Draft Reference
+
+Based on repository draft structure and uploaded project documentation. :contentReference[oaicite:0]{index=0}

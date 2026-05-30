@@ -1,12 +1,16 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 12-2003-FRBM-Act-Fiscal-Discipline
 
 # Fiscal Responsibility & Budget Management Act (FRBM)
 ## India's Fiscal Discipline Revolution
 
 ---
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
+![Streamlit](https://img.shields.io/badge/Streamlit-Dashboard-ff4b4b)
 
-# Author
-## Saloni Tiwari
 
 ---
 
@@ -244,29 +248,53 @@ This creates a direct connection between:
 
 ---
 
-# Best Charts Included
+# 📊 Data Visualizations
 
-## 📉 Fiscal Deficit Reduction
-Improvement in fiscal discipline
+## Terminal Output
 
-## 📊 Revenue Deficit Control
-Reduction in borrowing for routine expenditure
+![Terminal Output](charts/frbm_terminal_output.png)
 
-## 📈 Debt Stability
-Public debt management
+---
 
-## 📉 Inflation Control
-Macroeconomic stabilization
+## Fiscal Deficit Reduction
 
-## 📈 Credit Rating Improvement
-Global investor confidence
+![Fiscal Deficit Reduction](charts/fiscal_deficit_reduction.png)
 
-## 📊 Fiscal Variance Stability
-Reduction in macroeconomic volatility
+---
 
-## 📈 FRBM Reform Impact
-FDI growth and fiscal reforms
+## Revenue Deficit Control
 
+![Revenue Deficit Control](charts/revenue_deficit_control.png)
+
+---
+
+## Debt Stability
+
+![Debt Stability](charts/debt_stability.png)
+
+---
+
+## Inflation Control
+
+![Inflation Control](charts/inflation_control.png)
+
+---
+
+## Credit Rating Improvement
+
+![Credit Rating Improvement](charts/credit_rating_improvement.png)
+
+---
+
+## Fiscal Variance Stability
+
+![Fiscal Variance Stability](charts/fiscal_variance_stability.png)
+
+---
+
+## FRBM Reform Impact
+
+![FRBM Reform Impact](charts/frbm_reforms_impact.png)
 ---
 
 # Why This Project Is Powerful
@@ -450,3 +478,21 @@ Made with Python, Statistics, Fiscal Analytics, and Public Finance Research.
 
 # Author
 ## Saloni Tiwari
+🎓 IIT Madras BS Degree in Data Science
+
+🎓 B.Sc Mathematics
+
+
+Python • Data Analytics • Statistics • Economic Visualization • Historical Economic Research
+
+---
+
+# ⭐ GitHub Repository
+
+If you found this repository useful, consider giving it a ⭐ on GitHub.
+
+---
+
+# 📄 Repository Draft Reference
+
+Based on repository draft structure and uploaded project documentation.

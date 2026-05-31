@@ -1,14 +1,14 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 🇮🇳 15_2001-Abdul-Karim-Telgi-Stamp-Scam
 
 # Abdul Karim Telgi Stamp Paper Scam (2001)
 ## Revenue Leakage • Fiscal Fraud • Counterfeit Economy • E-Stamping Revolution
 
 ---
-
-# 👩‍💻 Author
-
-## Saloni Tiwari
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
 ---
 
 # 📌 Project Overview
@@ -346,28 +346,66 @@ This anomaly became mathematical evidence of:
 
 ---
 
-# 📈 Major Charts Included
+# 📊 Data Visualizations
 
-## 📊 Revenue Loss Analysis
-Government fiscal revenue damage
+## Terminal Output
 
-## 📊 Counterfeit Network Growth
-Expansion of illegal networks
+![Terminal Output](charts/telgi_stamp_scam_terminal_output.png)
 
-## 📊 Registration vs Revenue Divergence
-Mathematical anomaly detection
+---
 
-## 📊 Fiscal Deficit Impact
-Revenue leakage effect on state finances
+## Revenue Loss Analysis
 
-## 📊 Banking Sector Exposure
-Financial system vulnerability
+![Revenue Loss Analysis](charts/revenue_loss_analysis.png)
 
-## 📊 E-Stamping Growth
-Digital governance transformation
+---
 
-## 📊 Fraud Variance Analysis
-Statistical fraud analysis
+## Counterfeit Network Growth
+
+![Counterfeit Network Growth](charts/counterfeit_network_growth.png)
+
+---
+
+## Registration vs Revenue Divergence
+
+![Registration vs Revenue Divergence](charts/property_registration_vs_revenue.png)
+![Revenue Divergence](charts/revenue_divergence.png)
+
+---
+
+## Fiscal Deficit Impact
+
+![Fiscal Deficit Impact](charts/fiscal_deficit_impact.png)
+
+---
+
+## Banking Sector Exposure
+
+![Banking Sector Exposure](charts/banking_sector_exposure.png)
+
+---
+
+## E-Stamping Growth
+
+![E-Stamping Growth](charts/e_stamping_growth.png)
+
+---
+
+## Fraud Variance Analysis
+
+![Fraud Variance Analysis](charts/fraud_variance_analysis.png)
+
+---
+
+## Anomaly Detection
+
+![Anomaly Detection](charts/anomaly_detection.png)
+
+---
+
+## Paper vs Digital Security
+
+![Paper vs Digital Security](charts/paper_vs_digital_security.png)
 
 ---
 

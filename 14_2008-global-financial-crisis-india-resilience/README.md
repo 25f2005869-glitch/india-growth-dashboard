@@ -1,3 +1,4 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 🇮🇳 14_2008-Global-Financial-Crisis-India-Resilience
 
 # Global Financial Crisis 2008 & India's Economic Resilience
@@ -5,9 +6,10 @@
 
 ---
 
-# 👩‍💻 Author
-
-## Saloni Tiwari
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
 
 ---
 
@@ -355,32 +357,59 @@ This demonstrated:
 
 ---
 
-# 📈 Major Charts Included
+# 📊 Data Visualizations
 
-## 📉 Sensex Crash & Recovery
-Stock market collapse and rebound
+## Terminal Output
 
-## 📊 FII Outflow Analysis
-Foreign capital withdrawal trends
+![Terminal Output](charts/global_financial_crisis_analysis_terminal_output.png.png)
 
-## 📉 Repo Rate Reduction
-RBI monetary response
+---
 
-## 📈 GDP Recovery
-V-shaped economic recovery
+## Sensex Crash & Recovery
 
-## 📊 Banking Stability
-Indian banking system protection
+![Sensex Crash & Recovery](charts/sensex_crash_recovery.png)
 
-## 📊 Liquidity Infusion
-Market liquidity management
+---
 
-## 📊 Volatility Variance
-Market shock stabilization
+## FII Outflow Analysis
 
-## 📈 Domestic Consumption Strength
-Internal market resilience
+![FII Outflow Analysis](charts/fii_outflow_analysis.png)
 
+---
+
+## Repo Rate Reduction
+
+![Repo Rate Reduction](charts/repo_rate_reduction.png)
+
+---
+
+## GDP Recovery
+
+![GDP Recovery](charts/gdp_recovery.png)
+
+---
+
+## Banking Stability
+
+![Banking Stability](charts/banking_stability.png)
+
+---
+
+## Liquidity Infusion
+
+![Liquidity Infusion](charts/liquidity_infusion.png)
+
+---
+
+## Volatility Variance
+
+![Volatility Variance](charts/volatility_variance.png)
+
+---
+
+## Domestic Consumption Strength
+
+![Domestic Consumption Strength](charts/domestic_consumption_strength.png)
 ---
 
 # 🛠 Technologies Used
@@ -510,7 +539,7 @@ Python • Statistics • Economic Analytics • Financial Crisis Research • B
 
 Part of the long-term:
 
-# 🇮🇳 India Growth & Development Dashboard
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 
 A research-oriented repository connecting:
 

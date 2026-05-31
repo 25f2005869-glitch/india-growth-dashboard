@@ -1,13 +1,14 @@
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 # 🇮🇳 13_2006-MGNREGA-Rural-Employment-Guarantee
 
 # Mahatma Gandhi National Rural Employment Guarantee Act (MGNREGA)
 ## Rural Employment • Welfare Governance • Financial Inclusion • Statistical Analytics
 
 ---
-
-# 👩‍💻 Author
-
-## Saloni Tiwari
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-green)
+![Statistics](https://img.shields.io/badge/Statistics-Economics-orange)
+![Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib-red)
 
 ---
 
@@ -431,29 +432,47 @@ This mathematically proves:
 | Wage_Index | Rural wage growth |
 
 ---
+# 📊 Data Visualizations
 
-# 📈 Major Charts Included
+## Terminal Output
 
-## 📊 Leakage Variance Reduction
-Corruption decline after banking reforms
+![Terminal Output](charts/mgnrega_analysis_terminal_output.png)
 
-## 📊 DBT Coverage Growth
-Digital welfare transformation
+---
 
-## 📊 Rural Employment Growth
-Employment expansion under MGNREGA
+## Leakage Variance Reduction
 
-## 📊 Banking Linkage Growth
-Financial inclusion analysis
+![Leakage Variance Reduction](charts/leakage_variance.png)
 
-## 📊 Migration Reduction
-Decline in distress migration
+---
 
-## 📊 Women Participation
-Female workforce inclusion
+## DBT Coverage Growth
 
-## 📊 Wage Stability
-Rural wage improvement trends
+![DBT Coverage Growth](charts/dbt_growth.png)
+
+---
+
+## Rural Employment Growth
+
+![Rural Employment Growth](charts/rural_employment_growth.png)
+
+---
+
+## Banking Linkage Growth
+
+![Banking Linkage Growth](charts/banking_linkage.png)
+
+---
+
+## Migration Reduction
+
+![Migration Reduction](charts/migration_reduction.png)
+
+---
+
+## Women Participation
+
+![Women Participation](charts/women_participation.png)
 
 ---
 
@@ -586,7 +605,7 @@ Python • Statistics • Economic Analytics • Governance Research • Rural D
 
 Part of the long-term:
 
-# 🇮🇳 India Growth & Development Dashboard
+# 🇮🇳 INDIA ECONOMIC REFORMS SERIES
 
 A research-oriented repository connecting:
 
